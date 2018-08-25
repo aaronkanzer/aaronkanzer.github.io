@@ -2058,6 +2058,7 @@ input, select, textarea {
 	.image {
 		border-radius: 5px;
 		border: 0;
+		margin-top: 20px;
 		display: inline-block;
 		position: relative;
 	}
